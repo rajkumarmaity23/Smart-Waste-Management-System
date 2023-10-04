@@ -1,6 +1,6 @@
-# SMART DUSTBIN MANAGEMENT SYSTEM - "An Initiation for our Smart City"
+# SMART WASTE MANAGEMENT SYSTEM - "An Initiation for our Smart City"
 
-Welcome to the **Smart Dustbin Management System** project, an initiative aimed at transforming the way waste management operates in our cities. With the rise of technology, it's imperative to address the challenges of unmanaged waste effectively. Our project focuses on creating a cleaner, greener, and smarter environment through innovative solutions.
+Welcome to the **Smart Waste Management System** project, an initiative aimed at transforming the way waste management operates in our cities. With the rise of technology, it's imperative to address the challenges of unmanaged waste effectively. Our project focuses on creating a cleaner, greener, and smarter environment through innovative solutions.
 
 ## Project Overview
 
@@ -38,7 +38,7 @@ We invite developers, environmentalists, and anyone passionate about clean citie
 
 ## Acknowledgments
 
-We express our gratitude to all contributors and supporters of the Smart Dustbin Management System project. Together, we can revolutionize waste management and create a cleaner, healthier future for our cities.
+We express our gratitude to all contributors and supporters of the Smart Waste Management System project. Together, we can revolutionize waste management and create a cleaner, healthier future for our cities.
 
 ---
 
